@@ -1,0 +1,21 @@
+{
+  "author": [
+    "DigitalTinker"
+  ],
+  "description": "",
+  "install_msg": "",
+  "short": "",
+  "min_python_version": [
+    3,
+    9,
+    1
+  ],
+  "requirements": [
+    "requests"
+  ],
+  "tags": [
+    ""
+  ],
+  "type": "COG",
+  "end_user_data_statement": "This cog does not persistently store data or metadata about users."
+}
