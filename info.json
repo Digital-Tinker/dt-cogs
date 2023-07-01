@@ -1,0 +1,8 @@
+{
+    "author": [
+        "DigitalTinker"
+    ],
+    "description": "Various cogs used by servers managed by DigitalTinker",
+    "install_msg": "Installed!"
+    "name": "dt-cogs"
+}
