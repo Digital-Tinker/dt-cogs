@@ -5,7 +5,7 @@ from requests.auth import HTTPBasicAuth
 from requests import Session
 import numpy as np
 
-import .api_key
+import ./api_key
 
 class Darknet(commands.Cog):
     """My custom cog"""
